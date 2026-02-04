@@ -13,7 +13,7 @@ export const products: Product[] = [
     name: "Single Straight Model",
     price: 350,
     description: "Exquisite Straight-fit wear crafted with love and precision. Custom designs that make your special day unforgettable.",
-    image: "/Single.jpeg",
+    image: "/Single-straight.jpeg",
     category: "Traditional",
   },
   {
@@ -21,7 +21,7 @@ export const products: Product[] = [
     name: "Single umbrella Model",
     price: 350,
     description: "Perfectly fitted with intricate detailing. From simple elegance to designer patterns.",
-    image: "/Single Umbrella.jpeg",
+    image: "/Single u.jpeg",
     category: "Modern",
   },
   {
@@ -29,7 +29,7 @@ export const products: Product[] = [
     name: "Layers Frill Model",
     price: 400,
     description: "Elegant churidar sets tailored to perfection. Comfortable fit with beautiful finishing.",
-    image: "/Layers Fril.jpeg",
+    image: "/Layers.jpeg",
     category: "Frill",
   },
   {
@@ -37,7 +37,7 @@ export const products: Product[] = [
     name: "Double Umbrella Model",
     price: 400,
     description: " Double Umbrella Model that adds a touch of royalty. Intricate handwork on any fabric.",
-    image: "/Double.jpeg",
+    image: "/Double umbrella.jpeg",
     category: "Modern",
   },
   {
