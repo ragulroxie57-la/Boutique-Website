@@ -21,7 +21,7 @@ export const products: Product[] = [
     name: "Single umbrella Model",
     price: 350,
     description: "Perfectly fitted with intricate detailing. From simple elegance to designer patterns.",
-    image: "/Single u.jpeg",
+    image: "/Single.jpeg",
     category: "Modern",
   },
   {
