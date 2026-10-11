@@ -17,6 +17,14 @@ export const products: Product[] = [
     category: "Traditional",
   },
   {
+    id: "Mo-dress",
+    name: "Straight Model",
+    price: 550,
+    description: "Exquisite Straight-fit wear crafted with love and precision. Custom designs that make your special day unforgettable.",
+    image: "/Straight-Model.jpg",
+    category: "Traditional",
+  },
+  {
     id: "modern-wear",
     name: "Single umbrella Model",
     price: 350,
@@ -40,6 +48,7 @@ export const products: Product[] = [
     image: "/Double umbrella.jpeg",
     category: "Modern",
   },
+  
   {
     id: "kids-wear",
     name: "Kids Wear",
